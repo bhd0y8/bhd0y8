@@ -1,4 +1,4 @@
-- 🖐 Hey, It's BHD
+- 🖐 Hey, It's BahadoR
 - 📚 He's interested in  Embedded systems, multi-agent systems, Position Control of DC_MOTOR and Industrial Robots.
 - ✨ He's currently learning Altium, SIMATIC S7-300, ESP-07, Political philosophy👽 
 - ✍ Gmail : darafkan.bahador
